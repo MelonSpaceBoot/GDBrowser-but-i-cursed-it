@@ -1,6 +1,6 @@
 const WHITE = 0xffffff
 const colorNames = { "1": "Color 1", "2": "Color 2", "g": "Glow", "w": "White", "u": "UFO Dome" }
-const formNames = { "player": "icon", "player_ball": "ball", "bird": "ufo", "dart": "wave" }
+const formNames = { "player": "hahamelonwashere", "player_ball": "ball", "bird": "ufo", "dart": "wave" }
 const loader = PIXI.Loader.shared
 
 const loadedNewIcons = {}
